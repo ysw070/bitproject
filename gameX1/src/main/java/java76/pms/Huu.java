@@ -9,6 +9,10 @@ public class Huu {
   
   private static void SR() {
     System.out.println("히힛");
+    System.out.println("승렬이");
+    System.out.println("히힛");
+    System.out.println("승렬이");
+    System.out.println("히힛");
   }
 
 }
