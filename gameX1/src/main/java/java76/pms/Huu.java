@@ -21,7 +21,7 @@ public class Huu {
     System.out.println("as");
     System.out.println("as");
     System.out.println("as");
-    System.out.println("asaa");
+    System.out.println("asaaaaa111");
   }
 
 }
